@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "label": "clones",
+  "message": "0",
+  "color": "lightgrey",
+  "window": "14 days",
+  "uniqueCloners": 0,
+  "views": 0,
+  "uniqueVisitors": 0,
+  "updatedAt": "2026-11-18T00:34:49.764Z",
+  "repos": [
+    {
+      "repo": "clone-stats-badge",
+      "clones": 0,
+      "uniqueCloners": 0,
+      "views": 0,
+      "uniqueVisitors": 0
+    }
+  ]
+}
